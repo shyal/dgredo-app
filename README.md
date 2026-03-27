@@ -1,1 +1,0 @@
-# dgredo-app
